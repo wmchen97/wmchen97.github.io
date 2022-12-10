@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Weiming Chen</title>
+    <link>https://weimingchen.net/publication-type/2/</link>
+      <atom:link href="https://weimingchen.net/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://weimingchen.net/media/icon_hu94da785d702687012712155ebfaf3e29_58452_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://weimingchen.net/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>MSSDet: Multi-Scale Ship-Detection Framework in Optical Remote-Sensing Images and New Benchmark</title>
+      <link>https://weimingchen.net/publication/2022-paper-mssdet/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-mssdet/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./GA.png&#34; alt=&#34;Graphical Abstract&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TMDiMP: Temporal memory guided discriminative tracker for UAV object tracking</title>
+      <link>https://weimingchen.net/publication/2022-paper-tmdimp/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-tmdimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptive YOLO Object Detector Based on Attention and Triplet Loss</title>
+      <link>https://weimingchen.net/publication/2022-paper-%E5%9F%BA%E4%BA%8E%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%92%8C%E4%B8%89%E5%85%83%E6%8D%9F%E5%A4%B1%E7%9A%84%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94yolo%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-%E5%9F%BA%E4%BA%8E%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%92%8C%E4%B8%89%E5%85%83%E6%8D%9F%E5%A4%B1%E7%9A%84%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94yolo%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95/</guid>
+      <description>&lt;p&gt;This is a Chinese paper, i.e.,&lt;/p&gt;
+&lt;p&gt;周洋, 韩冰, 高新波, 杨铮, 陈玮铭. 基于注意力和三元损失的域自适应YOLO目标检测算法. 自动化学报.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuclear Segmentation Method for Thyroid Carcinoma Pathologic Images Based on Boundary Weighting</title>
+      <link>https://weimingchen.net/publication/2022-paper-%E8%BE%B9%E7%95%8C%E5%8A%A0%E6%9D%83%E7%9A%84%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E7%BB%86%E8%83%9E%E6%A0%B8%E7%B2%BE%E7%A1%AE%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-%E8%BE%B9%E7%95%8C%E5%8A%A0%E6%9D%83%E7%9A%84%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E7%BB%86%E8%83%9E%E6%A0%B8%E7%B2%BE%E7%A1%AE%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;This is a Chinese paper, i.e..&lt;/p&gt;
+&lt;p&gt;韩冰, 高路, 高新波, 陈玮铭. 边界加权的甲状腺癌病理图像细胞核精确分割方法. 西电学报.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

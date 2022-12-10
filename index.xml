@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weiming Chen</title>
+    <link>https://weimingchen.net/</link>
+      <atom:link href="https://weimingchen.net/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiming Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://weimingchen.net/media/icon_hu94da785d702687012712155ebfaf3e29_58452_512x512_fill_lanczos_center_3.png</url>
+      <title>Weiming Chen</title>
+      <link>https://weimingchen.net/</link>
+    </image>
+    
+    <item>
+      <title>MSSDet: Multi-Scale Ship-Detection Framework in Optical Remote-Sensing Images and New Benchmark</title>
+      <link>https://weimingchen.net/publication/2022-paper-mssdet/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-mssdet/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./GA.png&#34; alt=&#34;Graphical Abstract&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Multi-scale Object Detection Method Based on Joint Recursive Feature Pyramid</title>
+      <link>https://weimingchen.net/publication/2022-patent-%E5%9F%BA%E4%BA%8E%E8%81%94%E5%90%88%E9%80%92%E5%BD%92%E7%89%B9%E5%BE%81%E9%87%91%E5%AD%97%E5%A1%94%E7%9A%84%E5%A4%9A%E5%B0%BA%E5%BA%A6%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-patent-%E5%9F%BA%E4%BA%8E%E8%81%94%E5%90%88%E9%80%92%E5%BD%92%E7%89%B9%E5%BE%81%E9%87%91%E5%AD%97%E5%A1%94%E7%9A%84%E5%A4%9A%E5%B0%BA%E5%BA%A6%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;This is a Chinese invention patent, i.e.,&lt;/p&gt;
+&lt;p&gt;韩冰, 陈玮铭, 高新波, 杨铮, 黄晓悦. 基于联合递归特征金字塔的多尺度目标检测方法. 申请号: 2022113394400. 申请日期: 2022年10月29日.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Image Annotation System V1.0</title>
+      <link>https://weimingchen.net/publication/2022-patent-%E8%A7%86%E8%A7%89%E5%BD%B1%E5%83%8F%E6%A0%87%E6%B3%A8%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-patent-%E8%A7%86%E8%A7%89%E5%BD%B1%E5%83%8F%E6%A0%87%E6%B3%A8%E7%B3%BB%E7%BB%9F/</guid>
+      <description>&lt;p&gt;This is a Chinese software copyright, i.e.,&lt;/p&gt;
+&lt;p&gt;韩冰, 陈玮铭, 王平, 熊燕南, 周洋, 赵玮雄. 视觉影像标注系统V1.0. 软件著作权.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TMDiMP: Temporal memory guided discriminative tracker for UAV object tracking</title>
+      <link>https://weimingchen.net/publication/2022-paper-tmdimp/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-tmdimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptive YOLO Object Detector Based on Attention and Triplet Loss</title>
+      <link>https://weimingchen.net/publication/2022-paper-%E5%9F%BA%E4%BA%8E%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%92%8C%E4%B8%89%E5%85%83%E6%8D%9F%E5%A4%B1%E7%9A%84%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94yolo%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-%E5%9F%BA%E4%BA%8E%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%92%8C%E4%B8%89%E5%85%83%E6%8D%9F%E5%A4%B1%E7%9A%84%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94yolo%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95/</guid>
+      <description>&lt;p&gt;This is a Chinese paper, i.e.,&lt;/p&gt;
+&lt;p&gt;周洋, 韩冰, 高新波, 杨铮, 陈玮铭. 基于注意力和三元损失的域自适应YOLO目标检测算法. 自动化学报.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Annotation Platform (VAP)</title>
+      <link>https://weimingchen.net/project/2022-vap/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/project/2022-vap/</guid>
+      <description>&lt;h2 id=&#34;news-&#34;&gt;News 📌&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Schedule&lt;/strong&gt; 📅&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;version &lt;strong&gt;0.4.0&lt;/strong&gt; is on the schedule.&lt;/li&gt;
+&lt;li&gt;the second-round alpha test will start immediately after the releasement of version 0.4.0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.12.06&lt;/strong&gt;: the first-round alpha test was finished.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.27&lt;/strong&gt;: version &lt;strong&gt;0.3.0&lt;/strong&gt; was released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.05&lt;/strong&gt;: version &lt;strong&gt;0.2.0&lt;/strong&gt; was released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.02&lt;/strong&gt;: version &lt;strong&gt;0.1.1&lt;/strong&gt; was released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.01&lt;/strong&gt;: the Github repository was created (in private).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.08.25&lt;/strong&gt;: the idea of VAP was born.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./VAP_detection_example.gif&#34; alt=&#34;Demo of an instance-level annotation using VAP&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This project aims to build a &lt;strong&gt;V&lt;/strong&gt;isual &lt;strong&gt;A&lt;/strong&gt;nnotation &lt;strong&gt;P&lt;/strong&gt;latform (VAP) for basic computer vision tasks. The current VAP supports image-level, instance-level, and pixel-level annotation, which corresponds to the image classification, object detection, and semantic segmentation task.&lt;/p&gt;
+&lt;p&gt;This project is based on the postgraduate case-teaching curriculum construction project of Xidian University (XDU-PCTCC), and has been further developed into an independent project.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Project Leader: &lt;strong&gt;Weiming Chen&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Programmer: &lt;strong&gt;Weiming Chen&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Language &amp;amp; Library: &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;PySide6&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Current version: &lt;strong&gt;0.3.0&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Visit the Github repository for more information (the current repository is private, and it will be publicly available while releasing version 1.0.0):&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wmchen97/VisualAnnotationPlatform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/wmchen97/VisualAnnotationPlatform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;other-contributors-&#34;&gt;Other Contributors 🤝&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bing Han&lt;/strong&gt; (Prof.): the project leader of the XDU-PCTCC.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ping Wang&lt;/strong&gt; (Ph.D): a member of the XDU-PCTCC.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yannan Xiong&lt;/strong&gt; (M.Eng): a participant in the first-round alpha test, who test the pixel-level annotation tool.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yang Zhou&lt;/strong&gt; (M.Eng): a participant in the first-round alpha test, who test the instance-level annotation tool.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Weixiong Zhao&lt;/strong&gt; (M.Sc): a participant in the first-round alpha test, who test the image-level annotation tool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;acknowledgment-&#34;&gt;Acknowledgment 💎&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://see.xidian.edu.cn/vipsl/index.html&#34; target=&#34;_blank&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./VIP_logo.png&#34; alt=&#34;VIPL&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Pathological Image Segmentation Method Based on Point Labeled Data</title>
+      <link>https://weimingchen.net/publication/2022-patent-%E5%9F%BA%E4%BA%8E%E7%82%B9%E6%A0%87%E6%B3%A8%E6%95%B0%E6%8D%AE%E7%9A%84%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-patent-%E5%9F%BA%E4%BA%8E%E7%82%B9%E6%A0%87%E6%B3%A8%E6%95%B0%E6%8D%AE%E7%9A%84%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;This is a Chinese invention patent, i.e.,&lt;/p&gt;
+&lt;p&gt;韩冰, 高路, 杨铮, 陈玮铭, 黄晓悦. 基于点标注数据的病理图像分割方法. 申请号: 2022105696413. 申请日期: 2022年5月24日.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuclear Segmentation Method for Thyroid Carcinoma Pathologic Images Based on Boundary Weighting</title>
+      <link>https://weimingchen.net/publication/2022-paper-%E8%BE%B9%E7%95%8C%E5%8A%A0%E6%9D%83%E7%9A%84%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E7%BB%86%E8%83%9E%E6%A0%B8%E7%B2%BE%E7%A1%AE%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-%E8%BE%B9%E7%95%8C%E5%8A%A0%E6%9D%83%E7%9A%84%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F%E7%BB%86%E8%83%9E%E6%A0%B8%E7%B2%BE%E7%A1%AE%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;This is a Chinese paper, i.e..&lt;/p&gt;
+&lt;p&gt;韩冰, 高路, 高新波, 陈玮铭. 边界加权的甲状腺癌病理图像细胞核精确分割方法. 西电学报.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research on Key Technologies of Adaptive Multi Domain Image Data Automatic Annotation</title>
+      <link>https://weimingchen.net/project/2021-%E9%99%95%E8%A5%BF%E7%9C%81%E9%87%8D%E7%82%B9/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/project/2021-%E9%99%95%E8%A5%BF%E7%9C%81%E9%87%8D%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021 VIPL-ETRO Remote Sensing Seminar</title>
+      <link>https://weimingchen.net/talk/2021-vipl-etro-remote-sensing-seminar/</link>
+      <pubDate>Thu, 28 Oct 2021 15:00:00 +0800</pubDate>
+      <guid>https://weimingchen.net/talk/2021-vipl-etro-remote-sensing-seminar/</guid>
+      <description>&lt;p&gt;We invited &lt;a href=&#34;https://www.etrovub.be/people/member/about-bio/jcheungw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Jonathan Cheung-Wai Chan&lt;/a&gt; from Vrije Universiteit Brussel to carry out an online seminar related to the topic of remote sensing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://weimingchen.net/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Weiming Chen</title>
+    <link>https://weimingchen.net/event/</link>
+      <atom:link href="https://weimingchen.net/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Oct 2021 15:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://weimingchen.net/media/icon_hu94da785d702687012712155ebfaf3e29_58452_512x512_fill_lanczos_center_3.png</url>
+      <title>Events</title>
+      <link>https://weimingchen.net/event/</link>
+    </image>
+    
+    <item>
+      <title>2021 VIPL-ETRO Remote Sensing Seminar</title>
+      <link>https://weimingchen.net/talk/2021-vipl-etro-remote-sensing-seminar/</link>
+      <pubDate>Thu, 28 Oct 2021 15:00:00 +0800</pubDate>
+      <guid>https://weimingchen.net/talk/2021-vipl-etro-remote-sensing-seminar/</guid>
+      <description>&lt;p&gt;We invited &lt;a href=&#34;https://www.etrovub.be/people/member/about-bio/jcheungw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Jonathan Cheung-Wai Chan&lt;/a&gt; from Vrije Universiteit Brussel to carry out an online seminar related to the topic of remote sensing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

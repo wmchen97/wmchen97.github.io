@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Weiming Chen</title>
+    <link>https://weimingchen.net/project/</link>
+      <atom:link href="https://weimingchen.net/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://weimingchen.net/media/icon_hu94da785d702687012712155ebfaf3e29_58452_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://weimingchen.net/project/</link>
+    </image>
+    
+    <item>
+      <title>Visual Annotation Platform (VAP)</title>
+      <link>https://weimingchen.net/project/2022-vap/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/project/2022-vap/</guid>
+      <description>&lt;h2 id=&#34;news-&#34;&gt;News 📌&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Schedule&lt;/strong&gt; 📅&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;version &lt;strong&gt;0.4.0&lt;/strong&gt; is on the schedule.&lt;/li&gt;
+&lt;li&gt;the second-round alpha test will start immediately after the releasement of version 0.4.0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.12.06&lt;/strong&gt;: the first-round alpha test was finished.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.27&lt;/strong&gt;: version &lt;strong&gt;0.3.0&lt;/strong&gt; was released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.05&lt;/strong&gt;: version &lt;strong&gt;0.2.0&lt;/strong&gt; was released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.02&lt;/strong&gt;: version &lt;strong&gt;0.1.1&lt;/strong&gt; was released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.11.01&lt;/strong&gt;: the Github repository was created (in private).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.08.25&lt;/strong&gt;: the idea of VAP was born.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./VAP_detection_example.gif&#34; alt=&#34;Demo of an instance-level annotation using VAP&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This project aims to build a &lt;strong&gt;V&lt;/strong&gt;isual &lt;strong&gt;A&lt;/strong&gt;nnotation &lt;strong&gt;P&lt;/strong&gt;latform (VAP) for basic computer vision tasks. The current VAP supports image-level, instance-level, and pixel-level annotation, which corresponds to the image classification, object detection, and semantic segmentation task.&lt;/p&gt;
+&lt;p&gt;This project is based on the postgraduate case-teaching curriculum construction project of Xidian University (XDU-PCTCC), and has been further developed into an independent project.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Project Leader: &lt;strong&gt;Weiming Chen&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Programmer: &lt;strong&gt;Weiming Chen&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Language &amp;amp; Library: &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;PySide6&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Current version: &lt;strong&gt;0.3.0&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Visit the Github repository for more information (the current repository is private, and it will be publicly available while releasing version 1.0.0):&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wmchen97/VisualAnnotationPlatform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/wmchen97/VisualAnnotationPlatform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;other-contributors-&#34;&gt;Other Contributors 🤝&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bing Han&lt;/strong&gt; (Prof.): the project leader of the XDU-PCTCC.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ping Wang&lt;/strong&gt; (Ph.D): a member of the XDU-PCTCC.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yannan Xiong&lt;/strong&gt; (M.Eng): a participant in the first-round alpha test, who test the pixel-level annotation tool.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yang Zhou&lt;/strong&gt; (M.Eng): a participant in the first-round alpha test, who test the instance-level annotation tool.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Weixiong Zhao&lt;/strong&gt; (M.Sc): a participant in the first-round alpha test, who test the image-level annotation tool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;acknowledgment-&#34;&gt;Acknowledgment 💎&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://see.xidian.edu.cn/vipsl/index.html&#34; target=&#34;_blank&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./VIP_logo.png&#34; alt=&#34;VIPL&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research on Key Technologies of Adaptive Multi Domain Image Data Automatic Annotation</title>
+      <link>https://weimingchen.net/project/2021-%E9%99%95%E8%A5%BF%E7%9C%81%E9%87%8D%E7%82%B9/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/project/2021-%E9%99%95%E8%A5%BF%E7%9C%81%E9%87%8D%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
