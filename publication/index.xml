@@ -5,12 +5,20 @@
     <link>https://weimingchen.net/publication/</link>
       <atom:link href="https://weimingchen.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weimingchen.net/media/icon_hu94da785d702687012712155ebfaf3e29_58452_512x512_fill_lanczos_center_3.png</url>
+      <url>https://weimingchen.net/media/icon_huce3806e429119a8aec3057320c859770_76434_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://weimingchen.net/publication/</link>
     </image>
+    
+    <item>
+      <title>TMDiMP: Temporal memory guided discriminative tracker for UAV object tracking</title>
+      <link>https://weimingchen.net/publication/2022-paper-tmdimp/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://weimingchen.net/publication/2022-paper-tmdimp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MSSDet: Multi-Scale Ship-Detection Framework in Optical Remote-Sensing Images and New Benchmark</title>
@@ -59,14 +67,6 @@
       <description>&lt;p&gt;This is a Chinese software copyright, i.e.,&lt;/p&gt;
 &lt;p&gt;韩冰, 陈玮铭, 王平, 熊燕南, 周洋, 赵玮雄. 视觉影像标注系统V1.0. 软件著作权.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>TMDiMP: Temporal memory guided discriminative tracker for UAV object tracking</title>
-      <link>https://weimingchen.net/publication/2022-paper-tmdimp/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://weimingchen.net/publication/2022-paper-tmdimp/</guid>
-      <description></description>
     </item>
     
     <item>

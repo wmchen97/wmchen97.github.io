@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weimingchen.net/media/icon_hu94da785d702687012712155ebfaf3e29_58452_512x512_fill_lanczos_center_3.png</url>
+      <url>https://weimingchen.net/media/icon_huce3806e429119a8aec3057320c859770_76434_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://weimingchen.net/project/</link>
     </image>
@@ -79,7 +79,7 @@
 &lt;p&gt;Language &amp;amp; Library: &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;PySide6&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Current version: &lt;strong&gt;0.3.0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Current version: &lt;strong&gt;0.3.0&lt;/strong&gt; (&lt;a href=&#34;https://weimingchen.net/uploads/VAP_0.3.0.zip&#34;&gt;click me to download the latest version&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Visit the Github repository for more information (the current repository is private, and it will be publicly available while releasing version 1.0.0):&lt;/p&gt;
